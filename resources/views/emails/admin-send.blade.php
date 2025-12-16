@@ -12,7 +12,7 @@
 <div style="background: #1a73e8; padding: 20px; text-align: center;">
     <img 
         src="{{ asset('logo.png') }}" 
-        alt="ClearwayHub Logo" 
+        alt="globrev Logo" 
         style="max-width: 180px; height: auto; display: inline-block;">
 </div>
 
@@ -27,7 +27,7 @@
 
             <!-- Footer -->
             <div style="background: #f8f8f8; padding: 15px; text-align: center; font-size: 12px; color: #777777;">
-                &copy; {{ date('Y') }} Clearway. All rights reserved.
+                &copy; {{ date('Y') }} globrev. All rights reserved.
             </div>
 
         </div>
