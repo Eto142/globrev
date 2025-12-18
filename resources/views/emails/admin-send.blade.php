@@ -10,10 +10,14 @@
 
             <!-- Header with Logo Only -->
 <div style="background: #1a73e8; padding: 20px; text-align: center;">
-    <img 
-        src="{{ asset('logo.png') }}" 
-        alt="globrev Logo" 
-        style="max-width: 180px; height: auto; display: inline-block;">
+   <img 
+  src="https://globrev.org/logo.png"
+  alt="Globrev Official Logo"
+  width="160"
+  height="auto"
+  style="display:block;margin:auto;"
+>
+
 </div>
 
 
