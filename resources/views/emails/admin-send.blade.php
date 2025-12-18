@@ -11,7 +11,7 @@
             <!-- Header with Logo Only -->
 <div style="background: #1a73e8; padding: 20px; text-align: center;">
    <img 
-  src="https://globrev.org/logo.png"
+  src="https://globrev.org/logo1.png"
   alt="Globrev Official Logo"
   width="160"
   height="auto"
